@@ -15,7 +15,19 @@
     "require": {
         "php":                   ">=5.5.9",
         "illuminate/filesystem": "~5.0",
-        "illuminate/support":    "~5.0"
+        "illuminate/support":    "~5.0",
+        "awatbayazidi/abzar": "1.0.3",
+        "awatbayazidi/contracts": "1.0.1",
+        "awatbayazidi/foundation": "1.0.*",
+        "awatbayazidi/atbcarbon": "1.0.2",
+        "awatbayazidi/bootstrapper": "1.0.0",
+        "awatbayazidi/menu": "1.0.1",
+        "awatbayazidi/notify": "1.0.1",
+        "awatbayazidi/payam": "1.0.1",
+        "awatbayazidi/settings": "1.0.1",
+        "awatbayazidi/themes": "1.0.1",
+        "awatbayazidi/upload": "1.*",
+        "awatbayazidi/atbauth": "1.0.*"        
     },
     "require-dev": {
         "phpunit/phpcov":        "~2.0",
